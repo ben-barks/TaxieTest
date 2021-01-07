@@ -1,0 +1,11 @@
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\obj\Debug\netcoreapp2.1\TaxieTest.csprojAssemblyReference.cache
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\obj\Debug\netcoreapp2.1\TaxieTest.csproj.CoreCompileInputs.cache
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\obj\Debug\netcoreapp2.1\TaxieTest.AssemblyInfoInputs.cache
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\obj\Debug\netcoreapp2.1\TaxieTest.AssemblyInfo.cs
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\bin\Debug\netcoreapp2.1\TaxieTest.deps.json
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\bin\Debug\netcoreapp2.1\TaxieTest.runtimeconfig.json
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\bin\Debug\netcoreapp2.1\TaxieTest.runtimeconfig.dev.json
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\bin\Debug\netcoreapp2.1\TaxieTest.dll
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\bin\Debug\netcoreapp2.1\TaxieTest.pdb
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\obj\Debug\netcoreapp2.1\TaxieTest.dll
+C:\Users\Carnifex\Documents\Taxie\TaxieTest\obj\Debug\netcoreapp2.1\TaxieTest.pdb
